@@ -1,2 +1,2 @@
 let mod =
-    "modifier par aussi par dev1C dans classesC devenu classes opendant le travaille";
+    "modifier dans la branch dev1C dans le dossier classe anciennement le dossier classesC";
