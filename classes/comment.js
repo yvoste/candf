@@ -1,3 +1,2 @@
-let modif = "rien";
-modif =
-    "modifier dans la branch dev1C dans le dossier classe anciennement le dossier classesC";
+// Création des modèles Comment
+let mod = "modifier par dev1C";
